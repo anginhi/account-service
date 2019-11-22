@@ -82,8 +82,8 @@
                 <artifactId>appengine-maven-plugin</artifactId>
                 <version>2.0.0</version>
                 <configuration>
-                    <projectId>agn123456789</projectId>
-                    <version>0.0.1</version>
+                    <projectId>anginhi-dbcfd</projectId>
+                    <version>1</version>
                     <port>8181</port>
                 </configuration>
             </plugin>
